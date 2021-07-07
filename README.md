@@ -19,6 +19,7 @@ Go to each of these links and sign up for an account:
 - **<a href="https://accounts.google.com/SignUp?service=wise&amp;continue=https%3A%2F%2Fdrive.google.com%2F%23&amp;ltmpl=drive">Google.com</a>**<br>You probably already have Google account (if you have a gmail account, you're good). We'll be using Google Spreadsheets the most, which you'll have access to from any Google account.
 - <a href="https://app.datawrapper.de/signin">**Datawrapper**</a>
   <br/> A great website for creating data visualizations without needing to code.
+- [**Codepen**](https://codepen.io/pen/)<br/> We'll be using this website to share your in-class exercises, so your instructor can check your work.
 
 **SOFTWARE**
 
