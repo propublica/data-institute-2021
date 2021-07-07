@@ -31,7 +31,7 @@ Before class begins on Monday, you'll need to have signed up for the following a
 **ACCOUNTS**
 Go to each of these links and sign up for an account:
 
-- <a href="https://github.com/join?source=header-home">Github.com</a><br>After signing up, make sure to confirm your e-mail address too, otherwise you won't be able to use the account. Github is the site we'll be using to share code and teach you how to publish your own webiste.
+- **<a href="https://github.com/join?source=header-home">Github.com</a>**<br>After signing up, make sure to confirm your e-mail address too, otherwise you won't be able to use the account. Github is the site we'll be using to share code and teach you how to publish your own webiste.
 - <a href="https://accounts.google.com/SignUp?service=wise&amp;continue=https%3A%2F%2Fdrive.google.com%2F%23&amp;ltmpl=drive">Google.com</a><br>You probably already have Google account (if you have a gmail account, you're good). We'll be using Google Spreadsheets the most, which you'll have access to from any Google account.
 
 **SOFTWARE**
