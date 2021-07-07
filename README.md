@@ -24,20 +24,25 @@ TKTK
 - [Day 4: Intro to Code, How Websites Work, HTML, CSS](#day-4)
 - [Day 5: Javascript, JQuery, Final Presentations](#day-5)
 
-## Welcome Reception & Install Party
+## What you'll need installed
+
+Before class begins on Monday, you'll need to have signed up for the following accounts, and installed the following software on your computer.
 
 **ACCOUNTS**
-<ul>
-  <li><a href="https://github.com/join?source=header-home">Github.com</a><br>(Make sure to confirm your e-mail address)</li>
-  <li><a href="https://accounts.google.com/SignUp?service=wise&amp;continue=https%3A%2F%2Fdrive.google.com%2F%23&amp;ltmpl=drive">Google.com</a></li>
-  <li><a href="https://app.datawrapper.de/signin">Datawrapper</a></li>
-</ul>
+Go to each of these links and sign up for an account:
+
+- <a href="https://github.com/join?source=header-home">Github.com</a><br>After signing up, make sure to confirm your e-mail address too, otherwise you won't be able to use the account. Github is the site we'll be using to share code and teach you how to publish your own webiste.
+- <a href="https://accounts.google.com/SignUp?service=wise&amp;continue=https%3A%2F%2Fdrive.google.com%2F%23&amp;ltmpl=drive">Google.com</a><br>You probably already have Google account (if you have a gmail account, you're good). We'll be using Google Spreadsheets the most, which you'll have access to from any Google account.
 
 **SOFTWARE**
 - <a href="https://www.google.com/chrome/browser/desktop/">Google Chrome</a>
 - Slack (<a href="https://itunes.apple.com/app/slack/id803453959?ls=1&amp;mt=12">Mac</a>, <a href="https://slack.com/ssb/download-win">Windows</a>)
 - Sublime Text (<a href="https://download.sublimetext.com/Sublime%20Text%20Build%203114.dmg">Mac</a>, <a href="https://download.sublimetext.com/Sublime%20Text%20Build%203114%20x64%20Setup.exe">Windows</a>)
 - <a href="https://desktop.github.com/">Github Desktop App</a>
+
+
+**OPTIONAL**
+- <a href="https://app.datawrapper.de/signin">Datawrapper</a>
 - Tabula (<a href="https://github.com/tabulapdf/tabula/releases/download/v1.0.1/tabula-mac-1.0.1.zip">Mac</a>, <a href="https://github.com/tabulapdf/tabula/releases/download/v1.0.1/tabula-win-1.0.1.zip">Windows</a>)
 - Open Refine (<a href="https://github.com/OpenRefine/OpenRefine/releases/download/2.5/google-refine-2.5-r2407.dmg">Mac</a>, <a href="https://github.com/OpenRefine/OpenRefine/releases/download/2.5/google-refine-2.5-r2407.zip">Windows</a>)
 	- If you're on a Mac, and you get the error that Google/Open Refine is damaged, [follow these instructions](open-refine-troubleshooting.md).
