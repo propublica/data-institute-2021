@@ -29,12 +29,14 @@ TKTK
 Before class begins on Monday, you'll need to have signed up for the following accounts, and installed the following software on your computer.
 
 **ACCOUNTS**
+
 Go to each of these links and sign up for an account:
 
 - **<a href="https://github.com/join?source=header-home">Github.com</a>**<br>After signing up, make sure to confirm your e-mail address too, otherwise you won't be able to use the account. Github is the site we'll be using to share code and teach you how to publish your own webiste.
 - **<a href="https://accounts.google.com/SignUp?service=wise&amp;continue=https%3A%2F%2Fdrive.google.com%2F%23&amp;ltmpl=drive">Google.com</a>**<br>You probably already have Google account (if you have a gmail account, you're good). We'll be using Google Spreadsheets the most, which you'll have access to from any Google account.
 
 **SOFTWARE**
+
 Go to each link and download the app onto your computer:
 
 - <a href="https://www.google.com/chrome/browser/desktop/">**Google Chrome**</a>
@@ -45,6 +47,7 @@ Go to each link and download the app onto your computer:
   <br/> This app is where we're going to be writing all our code. It's completely free, and will occassionally ask you if you'd like to pay, but payment is not required. For both beginners and experts, Sublime is one of the best apps for coding.
 
 **OPTIONAL**
+
 We won't be teaching these tools during class, but we highly recommend them and we want you to have easy access to them in case you need them in the near future. Your instructors will also be providing demo videos for how to use some of these tools.
 
 - <a href="https://app.datawrapper.de/signin">**Datawrapper**</a>
