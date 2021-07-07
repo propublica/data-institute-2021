@@ -17,12 +17,9 @@ TKTK
 - [Day 3: Intro to Mapping, Common Calculations in News, Analyzing Two Variables, Statistics](#day-3)
 - ^-- need to merge titles into 2 days
 
-- [Day 5: Intro to Design, Type, Layout & Color, Making a Webpage with Github](#day-5)
-- [Day 7: Visualizing Data, Charts and Maps](#day-7)
-- ^--- need to merge into [Day 3: TKTKTK]
-
+- [Day 3: Intro to Design, Github, and Data Visualization](#day-3)
 - [Day 4: Intro to Code, How Websites Work, HTML, CSS](#day-4)
-- [Day 5: Javascript, JQuery, Final Presentations](#day-5)
+- [Day 5: Javascript, Preparing for the Future, Class Presentations](#day-5)
 
 ## What you'll need installed
 
@@ -134,7 +131,104 @@ Wednesday, July 24
 - [Google Sheets Tutorials](https://training.npr.org/visual/what-to-do-with-a-big-pile-of-data/)
 
 
-== sisi updating here ==
+
+
+
+
+## Day 3
+### Wednesday, July 14
+
+### Intro to Design
+<p>
+<a href="https://lenagroeger.com/design_workshop" target="_blank">
+  <img src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/design_intro.jpg">
+</a>
+</p>
+
+**Lecture**
+<ul>
+  <li>What's Design Anyways?</li>
+  <li>Design Principles: The Only 4 Rules You Gotta Know</li>
+</ul>
+
+**Exercises**
+<ul>
+  <li>Align This!</li>
+  <li>Resume Redesign</li>
+</ul>
+
+
+### Type, Layout & Color
+<p>
+<a href="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/lectures/TypeLayoutColor.pdf" target="_blank"><img width="500" src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/type.jpg"></a>
+</p>
+
+**Lecture**
+<ul>
+  <li>Letter: The Many Faces of Type</li>
+  <li>Text: How to Deal with Words</li>
+  <li>The Grid: Putting the Pieces Together</li>
+  <li>Colors &amp; How to Pick 'Em </li>
+</ul>
+
+
+
+**Exercises**
+<ul>
+  <li>Name that Font!</li>
+  <li>Type Crimes</li>
+</ul>
+
+
+### Let's make a webpage!
+
+<p>
+<a target="_blank" href="http://lenagroeger.com/makeawebsite/"><img width="500" src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/online_portfolio.jpg"></a>
+</p>
+
+**Exercises**       
+<ul>
+  <li><a target="_blank" href="http://lenagroeger.com/makeawebsite/">Making a website</a></li>
+  <li>Getting your portfolio on the internet!</li>
+  <li>Using the GitHub Desktop app</li>
+</ul>
+
+### Visualizing Data
+<p>
+  <a target="_blank" href="https://lenagroeger.com/visualizing-data/"><img width="500" src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/visualizing_data.jpg"></a>
+</p>
+
+**Lecture**
+<ul>
+  <li>Bars</li>
+  <li>Lines</li>
+  <li>Scatterplots, Small Multiples, and More!</li>
+</ul>
+
+
+### Let's Make Some Charts & Maps!
+
+<p>
+  <a href="https://lenagroeger.com/datawrapper/"><img width="500" src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/datawrapper.jpg">
+  </a>
+</p>
+
+**In-Class Demos**  
+<ul>
+  <li>From data to charts in Google Sheets &amp; Data Wrapper</li>
+</ul>
+
+
+
+### Homework
+<ul>
+  <li>Using the principles we discussed today, redesign your resume. Email the before and after version to <a href="mailto:lena.groeger@propublica.org">lena.groeger@propublica.org</a>.</li>
+  <li>Using everything you've learned about design, type & layout, keep working on your portfolio HTML page. Then, since you've learned how to make a working webpage on the internet, upload your page to Github.</li>
+  <li>Here's <a target="_blank" href="http://lenagroeger.com/resources/">Lena's big list of resources</a> that may come in handy next week.</li>
+</ul>
+
+
+
 
 ## Day 4
 ### Thursday, July 25
@@ -170,7 +264,6 @@ Wednesday, July 24
   - `<img>`
   - `<a>`
   - `<ul>`
-
 
 **Exercises**
 <ul>
@@ -225,144 +318,26 @@ Wednesday, July 24
   <li>How CSS deals with conflict</li>
 </ul>
 
-### Homework
+### Optional Homework
 
+Only for those of you who have time and are looking for an extra challenge.
 <ul>
   <li>Save <a href="https://codepen.io/sisiwei/pen/bpXwMB?editors=1000">this HTML</a> onto your computer. Link to a new CSS file that you create. Write CSS to make the end result look like <a href="http://projects.propublica.org/graphics/images/data-institute/presentations/mars.jpg">this image</a>. You may only write CSS. You cannot edit the HTML file.</li>
-  <li>Using HTML and CSS, lay out a one-page web portfolio for yourself. Don't worry too much about the final design, though you are free to get started designing. Just make sure to get all of your information on the page and formatted using HTML.</li>
 </ul>
+
+
 
 
 
 ## Day 5
-### Friday, July 26
-
-### Intro to Design
-<p>
-<a href="https://lenagroeger.com/design_workshop" target="_blank">
-  <img src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/design_intro.jpg">
-</a>
-</p>
-
-
-**Lecture**
-<ul>
-  <li>What's Design Anyways?</li>
-  <li>Design Principles: The Only 4 Rules You Gotta Know</li>
-</ul>
-
-**Exercises**
-<ul>
-  <li>Align This!</li>
-  <li>Resume Redesign</li>
-</ul>
-
-
-### Type, Layout & Color
-<p>
-<a href="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/lectures/TypeLayoutColor.pdf" target="_blank"><img width="500" src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/type.jpg"></a>
-</p>
-
-**Lecture**
-<ul>
-  <li>Letter: The Many Faces of Type</li>
-  <li>Text: How to Deal with Words</li>
-  <li>The Grid: Putting the Pieces Together</li>
-  <li>Colors &amp; How to Pick 'Em </li>
-</ul>
-
-
-
-**Exercises**
-<ul>
-  <li>Name that Font!</li>
-  <li>Type Crimes</li>
-</ul>
-
-
-### Let's make a webpage!
-
-<p>
-<a target="_blank" href="http://lenagroeger.com/makeawebsite/"><img width="500" src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/online_portfolio.jpg"></a>
-</p>
-
-**Exercises**       
-<ul>
-  <li><a target="_blank" href="http://lenagroeger.com/makeawebsite/">Making a website</a></li>
-  <li>Getting your portfolio on the internet!</li>
-  <li>Using the GitHub Desktop app</li>
-</ul>
-
-
-
-### Homework
-<ul>
-  <li>Using the principles we discussed today, redesign your resume. Email the before and after version to <a href="mailto:lena.groeger@propublica.org">lena.groeger@propublica.org</a>.</li>
-  <li>Using everything you've learned about design, type & layout, keep working on your portfolio HTML page. Then, since you've learned how to make a working webpage on the internet, upload your page to Github.</li>
-  <li>Here's <a target="_blank" href="http://lenagroeger.com/resources/">Lena's big list of resources</a> that may come in handy next week.</li>
-</ul>
-
-
-
-<br></br>
-<h2>📚 Weekend! 🎉</h2>
-
-
-
-## Day 6
 ### Monday, July 29
 
 ### Javascript and JQuery
 
 **Review**  
 - Making a Website with Cards ♠️
-- Reminder to send Lena your resumes!
-- Going over homework from last Thursday
 
 **In-Class Demos**  
 - How to setup Javascript
 - How to add jQuery, set it up, and use it ([A good place to review what we're learning](https://www.w3schools.com/jquery/jquery_intro.asp))
 - Ida Demo: [Starting with this HTML and CSS](https://codepen.io/sisiwei/pen/ZWdXGw), let's build the JS together.
-
-**Exercises**
-- Save [this code](https://codepen.io/sisiwei/pen/MmZvgy) onto your computer as separate HTML and CSS files. Create a new JS - file and link to it in your HTML.
-- Let's talk through logically, what needs to happen together.
-- Can you figure out how to build a before and after graphic using Javascript?
-
-**Homework**
-- Using your own photos, make your own before and after interactive. Then, publish your interactive on Github and add it to your portfolio.
-
-
-
-
-## Day 7
-### Tuesday, July 30
-
-### Visualizing Data
-<p>
-  <a target="_blank" href="https://lenagroeger.com/visualizing-data/"><img width="500" src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/visualizing_data.jpg"></a>
-</p>
-
-**Lecture**
-<ul>
-  <li>Bars</li>
-  <li>Lines</li>
-  <li>Scatterplots, Small Multiples, and More!</li>
-</ul>
-
-
-### Let's Make Some Charts & Maps!
-
-<p>
-  <a href="https://lenagroeger.com/datawrapper/"><img width="500" src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/datawrapper.jpg">
-  </a>
-</p>
-
-**In-Class Demos**  
-<ul>
-  <li>From data to charts in Google Sheets &amp; Data Wrapper</li>
-</ul>
-
-**Homework**
-- Keep working on your portfolios! 
-- Send Lena your before/after resumes if you haven't yet done so.
