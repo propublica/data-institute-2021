@@ -133,7 +133,11 @@ Wednesday, July 24
 - [Precision Journalism: A Reporter's Introduction to Social Science Methods](https://www.amazon.com/Precision-Journalism-Reporters-Introduction-Science/dp/0742510883) by Philip Meyer
 - [Google Sheets Tutorials](https://training.npr.org/visual/what-to-do-with-a-big-pile-of-data/)
 
-**No Homework! Enjoy the city!**
+
+== sisi updating here ==
+
+**Homework:**
+- Watch this [5-minute video](http://www.dontfeartheinternet.com/01-not-tubes/) on how exactly websites work (and how they're not a series of tubes). We'll be talking about it in class tomorrow.
 
 ## Day 4
 ### Thursday, July 25
@@ -144,16 +148,6 @@ Wednesday, July 24
 **In-Class Demos**
 - What coding languages have you heard of?
 - Using the web inspector
-
-### How Websites Work
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/how-websites-work.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/how-websites-work.jpg"></a>
-
-**In-Class Demos**
-- How the Internet passes websites around
-- What HTML, CSS and Javascript contribute to a webpage
-
-**Exercises**
-- Drawing a Website
 
 ### HTML
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/html.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/html.jpg"></a>
