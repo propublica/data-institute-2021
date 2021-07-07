@@ -17,6 +17,8 @@ Go to each of these links and sign up for an account:
 
 - **<a href="https://github.com/join?source=header-home">Github.com</a>**<br>After signing up, make sure to confirm your e-mail address too, otherwise you won't be able to use the account. Github is the site we'll be using to share code and teach you how to publish your own webiste.
 - **<a href="https://accounts.google.com/SignUp?service=wise&amp;continue=https%3A%2F%2Fdrive.google.com%2F%23&amp;ltmpl=drive">Google.com</a>**<br>You probably already have Google account (if you have a gmail account, you're good). We'll be using Google Spreadsheets the most, which you'll have access to from any Google account.
+- <a href="https://app.datawrapper.de/signin">**Datawrapper**</a>
+  <br/> A great website for creating data visualizations without needing to code.
 
 **SOFTWARE**
 
@@ -33,8 +35,6 @@ Go to each link and download the app onto your computer:
 
 We won't be teaching these tools during class, but we highly recommend them and we want you to have easy access to them in case you need them in the near future. Your instructors will also be providing demo videos for how to use some of these tools.
 
-- <a href="https://app.datawrapper.de/signin">**Datawrapper**</a>
-  <br/> A great website for creating data visualizations without needing to code.
 - **Tabula** (<a href="https://github.com/tabulapdf/tabula/releases/download/v1.0.1/tabula-mac-1.0.1.zip">Mac</a>, <a href="https://github.com/tabulapdf/tabula/releases/download/v1.0.1/tabula-win-1.0.1.zip">Windows</a>)
   <br/> Your best friend for when you have a huge stack of data tables in PDF format and need to turn it into actual data you can use.
 - **Open Refine** (<a href="https://github.com/OpenRefine/OpenRefine/releases/download/2.5/google-refine-2.5-r2407.dmg">Mac</a>, <a href="https://github.com/OpenRefine/OpenRefine/releases/download/2.5/google-refine-2.5-r2407.zip">Windows</a>)
