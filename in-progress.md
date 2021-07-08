@@ -59,17 +59,17 @@ We won't be teaching these tools during class, but we highly recommend them and 
 Monday, July 12
 
 ### Intro to Data Journalism
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2021/intro-to-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2021/intro-to-data.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-data.jpg"></a>
 
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2021/intro-to-spreadsheets.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2021/intro-to-spreadsheets.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-spreadsheets.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-spreadsheets.jpg"></a>
 
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2021/finding-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2021/finding-data.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/finding-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/finding-data.jpg"></a>
 
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2021/loading-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2021/loading-data.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/loading-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/loading-data.jpg"></a>
 
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2021/best-practices.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2021/best-practices.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/best-practices.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/best-practices.jpg"></a>
 
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2021/string-functions.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2021/string-functions.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/string-functions.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/string-functions.jpg"></a>
 
 
 **Exercises**
