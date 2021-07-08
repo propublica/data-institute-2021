@@ -13,10 +13,7 @@ Click to jump directly to:
 
 TKTK
 - [Day 1: Intro to Data Journalism, Spreadsheets, Best Practices](#day-1)
-- [Day 2: Evaluating data, Open Refine, Analyzing One Variable](#day-2)
-- [Day 3: Intro to Mapping, Common Calculations in News, Analyzing Two Variables, Statistics](#day-3)
-- ^-- need to merge titles into 2 days
-
+- [Day 2: Evaluating data, Summarizing data](#day-2)
 - [Day 3: Intro to Design, Github, and Data Visualization](#day-3)
 - [Day 4: Intro to Code, How Websites Work, HTML, CSS](#day-4)
 - [Day 5: Javascript, Preparing for the Future, Class Presentations](#day-5)
@@ -30,7 +27,7 @@ Before class begins on Monday, you'll need to have signed up for the following a
 Go to each of these links and sign up for an account:
 
 - **<a href="https://github.com/join?source=header-home">Github.com</a>**<br>After signing up, make sure to confirm your e-mail address too, otherwise you won't be able to use the account. Github is the site we'll be using to share code and teach you how to publish your own webiste.
-- **<a href="https://accounts.google.com/SignUp?service=wise&amp;continue=https%3A%2F%2Fdrive.google.com%2F%23&amp;ltmpl=drive">Google.com</a>**<br>You probably already have Google account (if you have a gmail account, you're good). We'll be using Google Spreadsheets the most, which you'll have access to from any Google account.
+- **<a href="https://accounts.google.com/SignUp?service=wise&amp;continue=https%3A%2F%2Fdrive.google.com%2F%23&amp;ltmpl=drive">Google.com</a>**<br>You probably already have Google account (if you have a gmail account, you're good). We'll be using Google Sheets the most, which you'll have access to from any Google account.
 
 **SOFTWARE**
 
@@ -49,9 +46,9 @@ We won't be teaching these tools during class, but we highly recommend them and 
 
 - <a href="https://app.datawrapper.de/signin">**Datawrapper**</a>
   <br/> A great website for creating data visualizations without needing to code.
-- **Tabula** (<a href="https://github.com/tabulapdf/tabula/releases/download/v1.0.1/tabula-mac-1.0.1.zip">Mac</a>, <a href="https://github.com/tabulapdf/tabula/releases/download/v1.0.1/tabula-win-1.0.1.zip">Windows</a>)
+- **Tabula** (<a href="https://github.com/tabulapdf/tabula/releases/download/v1.2.1/tabula-mac-1.2.1.zip">Mac</a>, <a href="https://github.com/tabulapdf/tabula/releases/download/v1.2.1/tabula-win-1.2.1.zip">Windows</a>)
   <br/> Your best friend for when you have a huge stack of data tables in PDF format and need to turn it into actual data you can use.
-- **Open Refine** (<a href="https://github.com/OpenRefine/OpenRefine/releases/download/2.5/google-refine-2.5-r2407.dmg">Mac</a>, <a href="https://github.com/OpenRefine/OpenRefine/releases/download/2.5/google-refine-2.5-r2407.zip">Windows</a>)
+- **Open Refine** (<a href="https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg">Mac</a>, <a href="https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-3.4.1.zip">Windows</a>)
   <br/> A great tool to help you clean data (ex: it can recognize that "Saint Paul" and "St. Paul" maybe refer to the same city in Minnesota)
 	- If you're on a Mac, and you get the error that Google/Open Refine is damaged, [follow these instructions](open-refine-troubleshooting.md).
 
@@ -59,33 +56,31 @@ We won't be teaching these tools during class, but we highly recommend them and 
 <hr/>
 
 ## Day 1
-Monday, July 22
+Monday, July 12
 
 ### Intro to Data Journalism
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/intro-to-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/intro-to-data.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2021/intro-to-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2021/intro-to-data.jpg"></a>
 
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/intro-to-spreadsheets.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/intro-to-spreadsheets.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2021/intro-to-spreadsheets.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2021/intro-to-spreadsheets.jpg"></a>
 
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/finding-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/finding-data.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2021/finding-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2021/finding-data.jpg"></a>
 
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/loading-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/loading-data.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2021/loading-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2021/loading-data.jpg"></a>
 
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/best-practices.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/best-practices.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2021/best-practices.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2021/best-practices.jpg"></a>
 
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/string-functions.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/string-functions.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2021/string-functions.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2021/string-functions.jpg"></a>
 
 
 **Exercises**
-- Organizing information in rows & columns using [biographical information](http://bioguide.congress.gov/biosearch/biosearch.asp)
-- Learning how to sort with [Trump expenditures](https://docs.google.com/spreadsheets/d/1od86DSRi5kJPJfLpDRcSbPj2nJiRk4yJUIrfunjlK4Q/edit#gid=0)
-- Using Socrata to look at [3-1-1 calls from NYC](https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9)
+- Learning how to sort with [PPP loan applications](https://docs.google.com/spreadsheets/d/1FMktt0503CZqShEfsm2z8m1AiVZmyrIgfzqkTgeFTJU/edit?usp=sharing)
 - [Tabula](https://tabula.technology/)
 - Advanced Spreadsheets: Pivot Tables with [child support data](https://drive.google.com/file/d/0Bw5Mt7QIQlsgc2tLdFlpQ2QwTXM/view)
 
-**No Homework! Enjoy the city!**
+**No Homework!**
 
 ## Day 2
-Tuesday, July 23
+Tuesday, July 13
 
 ### Analyzing Data
 
@@ -99,11 +94,11 @@ Tuesday, July 23
 
 
 **Exercises**
-- Evaluating data with [Fairfax Arrests](https://www.strongspace.com/shared/u6n69debcw)
+- Evaluating data with [PPP loan applications](https://docs.google.com/spreadsheets/d/1FMktt0503CZqShEfsm2z8m1AiVZmyrIgfzqkTgeFTJU/edit?usp=sharing)
 - Analyzing one variable with [school reportcards](https://docs.google.com/spreadsheets/d/1t6xnKivbM1l67vCWj4Aw_ickHmYG9yJmSliByMUlCoY/edit?usp=sharing)
 - Advanced Spreadsheets: Combining Two Sheets with VLOOKUP, using [child support data](https://docs.google.com/spreadsheets/d/1cC_6Y6oV8YWHGtp_Fb6nDYQNYFJ-8Y0O7nnIZjBVvmc/edit?usp=sharing)
 
-**No Homework! Enjoy the city!**
+**No Homework!**
 
 
 ## Day 3
