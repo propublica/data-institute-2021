@@ -240,9 +240,6 @@ Wednesday, July 24
 - How the Internet passes websites around
 - What HTML, CSS and Javascript contribute to a webpage
 
-**Exercises**
-- Drawing a Website
-
 ### HTML
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/html.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/html.jpg"></a>
 
