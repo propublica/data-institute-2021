@@ -141,7 +141,7 @@ Wednesday, July 24
 
 **Lecture**
 <ul>
-  <li>Design for Journalists</li>
+  <li><a href="https://lenagroeger.com/design_workshop" target="_blank">Design for Journalists</a></li>
 </ul>
 
 **Exercises**
@@ -176,7 +176,7 @@ Wednesday, July 24
 </ul>
 
 
-### Let's Make Some Charts & Maps!
+### Making Charts
 
 <p>
   <a href="https://lenagroeger.com/datawrapper/"><img width="500" src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/datawrapper.jpg">
@@ -185,7 +185,7 @@ Wednesday, July 24
 
 **In-Class Demos**  
 <ul>
-  <li>From data to charts in Google Sheets &amp; Data Wrapper</li>
+  <li><a href="https://lenagroeger.com/datawrapper/">From data to charts in Data Wrapper</a></li>
 </ul>
 
 
