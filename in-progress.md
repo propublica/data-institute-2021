@@ -93,8 +93,6 @@ Tuesday, July 13
 
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/HISTOGRAM-vs-BAR-CHART.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/HISTOGRAM-vs-BAR-CHART.jpg"></a>
 
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/mms.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/mms.jpg"></a>
-
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/two-vars.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/two-vars.jpg"></a>
 
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/analysis-grab-bag.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/analysis-grab-bag.jpg"></a>
