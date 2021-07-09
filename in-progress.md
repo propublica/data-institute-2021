@@ -141,8 +141,7 @@ Wednesday, July 24
 
 **Lecture**
 <ul>
-  <li>What's Design Anyways?</li>
-  <li>Design Principles: The Only 4 Rules You Gotta Know</li>
+  <li>Design for Journalists</li>
 </ul>
 
 **Exercises**
@@ -150,7 +149,6 @@ Wednesday, July 24
   <li>Align This!</li>
   <li>Resume Redesign</li>
 </ul>
-
 
 
 
@@ -164,8 +162,7 @@ Wednesday, July 24
 **Exercises**       
 <ul>
   <li><a target="_blank" href="http://lenagroeger.com/makeawebsite/">Making a website</a></li>
-  <li>Getting your portfolio on the internet!</li>
-  <li>Using the GitHub Desktop app</li>
+
 </ul>
 
 ### Visualizing Data
@@ -175,9 +172,7 @@ Wednesday, July 24
 
 **Lecture**
 <ul>
-  <li>Bars</li>
-  <li>Lines</li>
-  <li>Scatterplots, Small Multiples, and More!</li>
+  <li>An intro to charts and data visualization</li>
 </ul>
 
 
