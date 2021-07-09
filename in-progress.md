@@ -14,14 +14,10 @@ Monday, July 12
 
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/best-practices.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/best-practices.jpg"></a>
 
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/string-functions.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/string-functions.jpg"></a>
-
-
 **Exercises**
 - Learning how to sort with [PPP loan applications](https://docs.google.com/spreadsheets/d/1FMktt0503CZqShEfsm2z8m1AiVZmyrIgfzqkTgeFTJU/edit?usp=sharing)
 - [Tabula](https://tabula.technology/)
-- Advanced Spreadsheets: Pivot Tables with [child support data](https://drive.google.com/file/d/0Bw5Mt7QIQlsgc2tLdFlpQ2QwTXM/view)
-
+- Advanced Spreadsheets: Pivot Tables 
 **No Homework!**
 
 ## Day 2
