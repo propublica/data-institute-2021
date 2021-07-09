@@ -203,9 +203,9 @@ Tuesday, July 13
 
 ### Optional Homework
 
-Only for those of you who have time and are looking for an extra challenge.
+Only for those of you who have time and are looking for an extra challenge. This is 100% optional because we will not be talking about this in class tomorrow. Instead, if you do it, I'll give you an individual response via email or Slack.
 <ul>
-  <li>Save <a href="https://codepen.io/sisiwei/pen/bpXwMB?editors=1000">this HTML</a> onto your computer. Link to a new CSS file that you create. Write CSS to make the end result look like <a href="http://projects.propublica.org/graphics/images/data-institute/presentations/mars.jpg">this image</a>. You may only write CSS. You cannot edit the HTML file.</li>
+  <li>Save <a href="https://codepen.io/sisiwei/pen/bpXwMB?editors=1000">this HTML</a> onto your computer. Link to a new CSS file that you create. Write CSS to make the end result look like <a href="http://projects.propublica.org/graphics/images/data-institute/presentations/mars.jpg">this image</a>. You may only write CSS. You cannot edit the HTML file. When you're done, send me your files or send me the links of your files on Github and I'll give you feedback on how it went!</li>
 </ul>
 
 
