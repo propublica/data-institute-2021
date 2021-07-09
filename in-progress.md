@@ -172,7 +172,7 @@ Wednesday, July 24
 
 **Lecture**
 <ul>
-  <li>An intro to charts and data visualization</li>
+  <li><a target="_blank" href="https://lenagroeger.com/visualizing-data/">An intro to charts and data visualization</a></li>
 </ul>
 
 
