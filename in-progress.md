@@ -28,6 +28,9 @@ Go to each of these links and sign up for an account:
 
 - **<a href="https://github.com/join?source=header-home">Github.com</a>**<br>After signing up, make sure to confirm your e-mail address too, otherwise you won't be able to use the account. Github is the site we'll be using to share code and teach you how to publish your own webiste.
 - **<a href="https://accounts.google.com/SignUp?service=wise&amp;continue=https%3A%2F%2Fdrive.google.com%2F%23&amp;ltmpl=drive">Google.com</a>**<br>You probably already have Google account (if you have a gmail account, you're good). We'll be using Google Sheets the most, which you'll have access to from any Google account.
+- <a href="https://app.datawrapper.de/signin">**Datawrapper**</a>
+  <br/> A great website for creating data visualizations without needing to code.
+- [**Codepen**](https://codepen.io/pen/)<br/> We'll be using this website to share your in-class exercises, so your instructor can check your work.
 
 **SOFTWARE**
 
@@ -44,8 +47,6 @@ Go to each link and download the app onto your computer:
 
 We won't be teaching these tools during class, but we highly recommend them and we want you to have easy access to them in case you need them in the near future. Your instructors will also be providing demo videos for how to use some of these tools.
 
-- <a href="https://app.datawrapper.de/signin">**Datawrapper**</a>
-  <br/> A great website for creating data visualizations without needing to code.
 - **Tabula** (<a href="https://github.com/tabulapdf/tabula/releases/download/v1.2.1/tabula-mac-1.2.1.zip">Mac</a>, <a href="https://github.com/tabulapdf/tabula/releases/download/v1.2.1/tabula-win-1.2.1.zip">Windows</a>)
   <br/> Your best friend for when you have a huge stack of data tables in PDF format and need to turn it into actual data you can use.
 - **Open Refine** (<a href="https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg">Mac</a>, <a href="https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-3.4.1.zip">Windows</a>)
@@ -122,37 +123,17 @@ Tuesday, July 13
 
 **Lecture**
 <ul>
-  <li>What's Design Anyways?</li>
-  <li>Design Principles: The Only 4 Rules You Gotta Know</li>
+  <li><a href="https://lenagroeger.com/design_workshop" target="_blank">Design for Journalists</a></li>
 </ul>
 
 **Exercises**
 <ul>
-  <li>Align This!</li>
-  <li>Resume Redesign</li>
+  <li> <a target="_blank" href="https://lenagroeger.com/design_workshop/imgs/ladle.jpg">Align This!</a></li>
+
+  <li><a target="_blank" href="https://lenagroeger.com/design_workshop/imgs/resumebefore.jpg">Resume Redesign</a></li>
 </ul>
 
 
-### Type, Layout & Color
-<p>
-<a href="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/lectures/TypeLayoutColor.pdf" target="_blank"><img width="500" src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/type.jpg"></a>
-</p>
-
-**Lecture**
-<ul>
-  <li>Letter: The Many Faces of Type</li>
-  <li>Text: How to Deal with Words</li>
-  <li>The Grid: Putting the Pieces Together</li>
-  <li>Colors &amp; How to Pick 'Em </li>
-</ul>
-
-
-
-**Exercises**
-<ul>
-  <li>Name that Font!</li>
-  <li>Type Crimes</li>
-</ul>
 
 
 ### Let's make a webpage!
@@ -164,8 +145,7 @@ Tuesday, July 13
 **Exercises**       
 <ul>
   <li><a target="_blank" href="http://lenagroeger.com/makeawebsite/">Making a website</a></li>
-  <li>Getting your portfolio on the internet!</li>
-  <li>Using the GitHub Desktop app</li>
+
 </ul>
 
 ### Visualizing Data
@@ -175,13 +155,11 @@ Tuesday, July 13
 
 **Lecture**
 <ul>
-  <li>Bars</li>
-  <li>Lines</li>
-  <li>Scatterplots, Small Multiples, and More!</li>
+  <li><a target="_blank" href="https://lenagroeger.com/visualizing-data/">An intro to charts and data visualization</a></li>
 </ul>
 
 
-### Let's Make Some Charts & Maps!
+### Making Charts
 
 <p>
   <a href="https://lenagroeger.com/datawrapper/"><img width="500" src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/datawrapper.jpg">
@@ -190,17 +168,10 @@ Tuesday, July 13
 
 **In-Class Demos**  
 <ul>
-  <li>From data to charts in Google Sheets &amp; Data Wrapper</li>
+  <li><a href="https://lenagroeger.com/datawrapper/">From data to charts in Data Wrapper</a></li>
 </ul>
 
 
-
-### Homework
-<ul>
-  <li>Using the principles we discussed today, redesign your resume. Email the before and after version to <a href="mailto:lena.groeger@propublica.org">lena.groeger@propublica.org</a>.</li>
-  <li>Using everything you've learned about design, type & layout, keep working on your portfolio HTML page. Then, since you've learned how to make a working webpage on the internet, upload your page to Github.</li>
-  <li>Here's <a target="_blank" href="http://lenagroeger.com/resources/">Lena's big list of resources</a> that may come in handy next week.</li>
-</ul>
 
 
 
@@ -221,9 +192,6 @@ Tuesday, July 13
 **In-Class Demos**
 - How the Internet passes websites around
 - What HTML, CSS and Javascript contribute to a webpage
-
-**Exercises**
-- Drawing a Website
 
 ### HTML
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/html.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/html.jpg"></a>
