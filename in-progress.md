@@ -90,25 +90,6 @@ Tuesday, July 13
 
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/one-var.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/one-var.jpg"></a>
 
-
-**Exercises**
-- Evaluating data with [PPP loan applications](https://docs.google.com/spreadsheets/d/1FMktt0503CZqShEfsm2z8m1AiVZmyrIgfzqkTgeFTJU/edit?usp=sharing)
-- Analyzing one variable with [school reportcards](https://docs.google.com/spreadsheets/d/1t6xnKivbM1l67vCWj4Aw_ickHmYG9yJmSliByMUlCoY/edit?usp=sharing)
-- Advanced Spreadsheets: Combining Two Sheets with VLOOKUP, using [child support data](https://docs.google.com/spreadsheets/d/1cC_6Y6oV8YWHGtp_Fb6nDYQNYFJ-8Y0O7nnIZjBVvmc/edit?usp=sharing)
-
-**No Homework!**
-
-
-## Day 3
-Wednesday, July 24
-
-### Analyzing Data, continued
-
-- [John Snow's map](http://matrix.msu.edu/~johnsnow/images/online_companion/chapter_images/fig12-5.jpg)
-- [Census Geocoder](https://geocoding.geo.census.gov/geocoder/locations/addressbatch?form)
-- [Bill de Blasio donors](https://docs.google.com/spreadsheets/d/17NlwDllhkKCDLa1cnKJDelQhcAjt4yRS2YJeQnGG-ao/edit#gid=0)
-- [Datawrapper](https://www.datawrapper.de/)
-
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/HISTOGRAM-vs-BAR-CHART.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/HISTOGRAM-vs-BAR-CHART.jpg"></a>
 
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/mms.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/mms.jpg"></a>
@@ -117,16 +98,17 @@ Wednesday, July 24
 
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/analysis-grab-bag.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/analysis-grab-bag.jpg"></a>
 
+**Exercises**
+- Evaluating data with [PPP loan applications](https://docs.google.com/spreadsheets/d/1FMktt0503CZqShEfsm2z8m1AiVZmyrIgfzqkTgeFTJU/edit?usp=sharing)
+- Analyzing one variable with [school reportcards](https://docs.google.com/spreadsheets/d/1t6xnKivbM1l67vCWj4Aw_ickHmYG9yJmSliByMUlCoY/edit?usp=sharing)
+- Advanced Spreadsheets: Combining Two Sheets with VLOOKUP, using [child support data](https://docs.google.com/spreadsheets/d/1cC_6Y6oV8YWHGtp_Fb6nDYQNYFJ-8Y0O7nnIZjBVvmc/edit?usp=sharing)
 
 **Resources**
 - [Numbers in the Newsroom: Using Math and Statistics in News](https://store.ire.org/products/numbers-in-the-newsroom-using-math-and-statistics-in-news-second-edition-e-version) by Sarah Cohen
 - [Precision Journalism: A Reporter's Introduction to Social Science Methods](https://www.amazon.com/Precision-Journalism-Reporters-Introduction-Science/dp/0742510883) by Philip Meyer
 - [Google Sheets Tutorials](https://training.npr.org/visual/what-to-do-with-a-big-pile-of-data/)
 
-
-
-
-
+**No Homework!**
 
 ## Day 3
 ### Wednesday, July 14
