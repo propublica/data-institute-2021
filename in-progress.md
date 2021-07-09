@@ -146,8 +146,9 @@ Wednesday, July 24
 
 **Exercises**
 <ul>
-  <li>Align This!</li>
-  <li>Resume Redesign</li>
+  <li> <a target="_blank" href="https://lenagroeger.com/design_workshop/imgs/ladle.jpg">Align This!</a></li>
+
+  <li><a target="_blank" href="https://lenagroeger.com/design_workshop/imgs/resumebefore.jpg">Resume Redesign</a></li>
 </ul>
 
 
