@@ -28,6 +28,9 @@ Go to each of these links and sign up for an account:
 
 - **<a href="https://github.com/join?source=header-home">Github.com</a>**<br>After signing up, make sure to confirm your e-mail address too, otherwise you won't be able to use the account. Github is the site we'll be using to share code and teach you how to publish your own webiste.
 - **<a href="https://accounts.google.com/SignUp?service=wise&amp;continue=https%3A%2F%2Fdrive.google.com%2F%23&amp;ltmpl=drive">Google.com</a>**<br>You probably already have Google account (if you have a gmail account, you're good). We'll be using Google Sheets the most, which you'll have access to from any Google account.
+- <a href="https://app.datawrapper.de/signin">**Datawrapper**</a>
+  <br/> A great website for creating data visualizations without needing to code.
+- [**Codepen**](https://codepen.io/pen/)<br/> We'll be using this website to share your in-class exercises, so your instructor can check your work.
 
 **SOFTWARE**
 
@@ -44,8 +47,6 @@ Go to each link and download the app onto your computer:
 
 We won't be teaching these tools during class, but we highly recommend them and we want you to have easy access to them in case you need them in the near future. Your instructors will also be providing demo videos for how to use some of these tools.
 
-- <a href="https://app.datawrapper.de/signin">**Datawrapper**</a>
-  <br/> A great website for creating data visualizations without needing to code.
 - **Tabula** (<a href="https://github.com/tabulapdf/tabula/releases/download/v1.2.1/tabula-mac-1.2.1.zip">Mac</a>, <a href="https://github.com/tabulapdf/tabula/releases/download/v1.2.1/tabula-win-1.2.1.zip">Windows</a>)
   <br/> Your best friend for when you have a huge stack of data tables in PDF format and need to turn it into actual data you can use.
 - **Open Refine** (<a href="https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg">Mac</a>, <a href="https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-3.4.1.zip">Windows</a>)
@@ -151,26 +152,7 @@ Wednesday, July 24
 </ul>
 
 
-### Type, Layout & Color
-<p>
-<a href="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/lectures/TypeLayoutColor.pdf" target="_blank"><img width="500" src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/type.jpg"></a>
-</p>
 
-**Lecture**
-<ul>
-  <li>Letter: The Many Faces of Type</li>
-  <li>Text: How to Deal with Words</li>
-  <li>The Grid: Putting the Pieces Together</li>
-  <li>Colors &amp; How to Pick 'Em </li>
-</ul>
-
-
-
-**Exercises**
-<ul>
-  <li>Name that Font!</li>
-  <li>Type Crimes</li>
-</ul>
 
 
 ### Let's make a webpage!
@@ -212,13 +194,6 @@ Wednesday, July 24
 </ul>
 
 
-
-### Homework
-<ul>
-  <li>Using the principles we discussed today, redesign your resume. Email the before and after version to <a href="mailto:lena.groeger@propublica.org">lena.groeger@propublica.org</a>.</li>
-  <li>Using everything you've learned about design, type & layout, keep working on your portfolio HTML page. Then, since you've learned how to make a working webpage on the internet, upload your page to Github.</li>
-  <li>Here's <a target="_blank" href="http://lenagroeger.com/resources/">Lena's big list of resources</a> that may come in handy next week.</li>
-</ul>
 
 
 
