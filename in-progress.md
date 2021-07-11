@@ -10,7 +10,7 @@ Monday, July 12
 
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-spreadsheets.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-spreadsheets.jpg"></a>
 
-<a href="https://drive.google.com/file/d/1wzI0HkbXcM0IvOyuUf2zgvvGg59grgAJ/view?usp=sharing"><img width="300" src="https://drive.google.com/file/d/1cWZGBvWw4wA9mn8umS3p0xcQSRsfvver/view?usp=sharing"></a>
+<a href="https://drive.google.com/file/d/1wzI0HkbXcM0IvOyuUf2zgvvGg59grgAJ/view?usp=sharing"><!--<img width="300" src="https://drive.google.com/file/d/1cWZGBvWw4wA9mn8umS3p0xcQSRsfvver/view?usp=sharing">--> Finding Data</a>
 
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/best-practices.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/best-practices.jpg"></a>
 
