@@ -41,3 +41,23 @@ We won't be teaching these tools during class, but we highly recommend them and 
 - **Open Refine** (<a href="https://github.com/OpenRefine/OpenRefine/releases/download/2.5/google-refine-2.5-r2407.dmg">Mac</a>, <a href="https://github.com/OpenRefine/OpenRefine/releases/download/2.5/google-refine-2.5-r2407.zip">Windows</a>)
   <br/> A great tool to help you clean data (ex: it can recognize that "Saint Paul" and "St. Paul" maybe refer to the same city in Minnesota)
 	- If you're on a Mac, and you get the error that Google/Open Refine is damaged, [follow these instructions](open-refine-troubleshooting.md).
+
+## Day 1
+Monday, July 12
+
+### Intro to Data Journalism
+<a href="https://propublica.s3.amazonaws.com/data-institute/intro-to-data.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/intro-to-data.jpg"></a>
+
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-spreadsheets.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/intro-to-spreadsheets.jpg"></a>
+
+<a href="https://propublica.s3.amazonaws.com/data-institute/finding-data.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/finding-data.jpg"></a>
+
+<a href="https://propublica.s3.amazonaws.com/data-institute/loading-data.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/loading-data.jpg"></a>
+
+<a href="https://propublica.s3.amazonaws.com/data-institute/best-practices.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/best-practices.jpg"></a>
+
+**Exercises**
+- Learning how to sort with [PPP loan applications](https://docs.google.com/spreadsheets/d/1FMktt0503CZqShEfsm2z8m1AiVZmyrIgfzqkTgeFTJU/edit?usp=sharing)
+- [Tabula](https://tabula.technology/)
+- Advanced Spreadsheets: Pivot Tables 
+**No Homework!**
