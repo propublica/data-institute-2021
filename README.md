@@ -59,5 +59,6 @@ Monday, July 12
 **Exercises**
 - Learning how to sort with [PPP loan applications](https://docs.google.com/spreadsheets/d/1FMktt0503CZqShEfsm2z8m1AiVZmyrIgfzqkTgeFTJU/edit?usp=sharing)
 - [Tabula](https://tabula.technology/)
-- Advanced Spreadsheets: Pivot Tables 
+- Advanced Spreadsheets: Pivot Tables
+
 **No Homework!**
