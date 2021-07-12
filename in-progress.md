@@ -15,7 +15,7 @@ Tuesday, July 13
 
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/one-var.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/one-var.jpg"></a>
 
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/HISTOGRAM-vs-BAR-CHART.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/HISTOGRAM-vs-BAR-CHART.jpg"></a>
+<a href="https://propublica.s3.amazonaws.com/data-institute/histogram_vs_barchart_21.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/HISTOGRAM-vs-BAR-CHART.jpg"></a>
 
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/two-vars.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/two-vars.jpg"></a>
 
