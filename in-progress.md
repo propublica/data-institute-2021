@@ -6,15 +6,15 @@ We'll literally paste each day below into the `read.md` as we go!
 Monday, July 12
 
 ### Intro to Data Journalism
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-data.jpg"></a>
+<a href="https://propublica.s3.amazonaws.com/data-institute/intro-to-data.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/intro-to-data.jpg"></a>
 
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-spreadsheets.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-spreadsheets.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-spreadsheets.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/intro-to-spreadsheets.jpg"></a>
 
-<a href="https://drive.google.com/file/d/1wzI0HkbXcM0IvOyuUf2zgvvGg59grgAJ/view?usp=sharing"><!--<img width="300" src="https://drive.google.com/file/d/1cWZGBvWw4wA9mn8umS3p0xcQSRsfvver/view?usp=sharing">--> Finding Data (new slides)</a>
+<a href="https://propublica.s3.amazonaws.com/data-institute/finding-data.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/finding-data.jpg"></a>
 
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/finding-loading.pdf">Slides for loading data <br> <img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/finding-loading.jpg"></a>
+<a href="https://propublica.s3.amazonaws.com/data-institute/loading-data.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/loading-data.jpg"></a>
 
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/best-practices.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/best-practices.jpg"></a>
+<a href="https://propublica.s3.amazonaws.com/data-institute/best-practices.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/best-practices.jpg"></a>
 
 **Exercises**
 - Learning how to sort with [PPP loan applications](https://docs.google.com/spreadsheets/d/1FMktt0503CZqShEfsm2z8m1AiVZmyrIgfzqkTgeFTJU/edit?usp=sharing)
