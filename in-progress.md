@@ -2,35 +2,7 @@ We'll literally paste each day below into the `read.md` as we go!
 
 <hr>
 
-## Day 2
-Tuesday, July 13
 
-### Analyzing Data
-
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/evaluating-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/evaluating-data.jpg"></a>
-
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/data-integrity.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/data-integrity.jpg"></a>
-
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/open-refine.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/open-refine.jpg"></a>
-
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/one-var.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/one-var.jpg"></a>
-
-<a href="https://propublica.s3.amazonaws.com/data-institute/histogram_vs_barchart_21.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/HISTOGRAM-vs-BAR-CHART.jpg"></a>
-
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/two-vars.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/two-vars.jpg"></a>
-
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/analysis-grab-bag.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/analysis-grab-bag.jpg"></a>
-
-**Exercises**
-- Evaluating data with [PPP loan applications](https://docs.google.com/spreadsheets/d/1FMktt0503CZqShEfsm2z8m1AiVZmyrIgfzqkTgeFTJU/edit?usp=sharing)
-- Analyzing one variable with [school reportcards](https://docs.google.com/spreadsheets/d/1t6xnKivbM1l67vCWj4Aw_ickHmYG9yJmSliByMUlCoY/edit?usp=sharing)
-
-**Resources**
-- [Numbers in the Newsroom: Using Math and Statistics in News](https://store.ire.org/products/numbers-in-the-newsroom-using-math-and-statistics-in-news-second-edition-e-version) by Sarah Cohen
-- [Precision Journalism: A Reporter's Introduction to Social Science Methods](https://www.amazon.com/Precision-Journalism-Reporters-Introduction-Science/dp/0742510883) by Philip Meyer
-- [Google Sheets Tutorials](https://training.npr.org/visual/what-to-do-with-a-big-pile-of-data/)
-
-**No Homework!**
 
 ## Day 3
 ### Wednesday, July 14
