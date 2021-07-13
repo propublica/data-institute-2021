@@ -7,6 +7,58 @@ Want to use our slides? Our teaching materials fall under the [same Creative Com
 
 # Curriculum
 
+## Day 2
+Tuesday, July 13
+
+### Analyzing Data
+
+<a href="https://propublica.s3.amazonaws.com/data-institute/evaluating-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/evaluating-data.jpg"></a>
+
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/data-integrity.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/data-integrity.jpg"></a>
+
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/open-refine.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/open-refine.jpg"></a>
+
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/one-var.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/one-var.jpg"></a>
+
+<a href="https://propublica.s3.amazonaws.com/data-institute/histogram_vs_barchart_21.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/HISTOGRAM-vs-BAR-CHART.jpg"></a>
+
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/two-vars.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/two-vars.jpg"></a>
+
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/analysis-grab-bag.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/analysis-grab-bag.jpg"></a>
+
+**Exercises**
+- Evaluating data with [PPP loan applications](https://docs.google.com/spreadsheets/d/1FMktt0503CZqShEfsm2z8m1AiVZmyrIgfzqkTgeFTJU/edit?usp=sharing)
+- Analyzing one variable with [school reportcards](https://docs.google.com/spreadsheets/d/1t6xnKivbM1l67vCWj4Aw_ickHmYG9yJmSliByMUlCoY/edit?usp=sharing)
+
+**Resources**
+- [Numbers in the Newsroom: Using Math and Statistics in News](https://store.ire.org/products/numbers-in-the-newsroom-using-math-and-statistics-in-news-second-edition-e-version) by Sarah Cohen (You should have received a copy!)
+- [Precision Journalism: A Reporter's Introduction to Social Science Methods](https://www.amazon.com/Precision-Journalism-Reporters-Introduction-Science/dp/0742510883) by Philip Meyer
+- [Google Sheets Tutorials](https://training.npr.org/visual/what-to-do-with-a-big-pile-of-data/)
+
+**No Homework!**
+
+## Day 1
+Monday, July 12
+
+### Intro to Data Journalism
+<a href="https://propublica.s3.amazonaws.com/data-institute/intro-to-data.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/intro-to-data.jpg"></a>
+
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-spreadsheets.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/intro-to-spreadsheets.jpg"></a>
+
+<a href="https://propublica.s3.amazonaws.com/data-institute/finding-data.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/finding-data.jpg"></a>
+
+<a href="https://propublica.s3.amazonaws.com/data-institute/loading-data.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/loading-data.jpg"></a>
+
+<a href="https://propublica.s3.amazonaws.com/data-institute/best-practices.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/best-practices.jpg"></a>
+
+**Exercises**
+- Learning how to sort with [PPP loan applications](https://docs.google.com/spreadsheets/d/1FMktt0503CZqShEfsm2z8m1AiVZmyrIgfzqkTgeFTJU/edit?usp=sharing)
+- String Functions: We combined street, city and state into one address using the <a href="https://productivityspot.com/concatenate-in-google-sheets/">Ampersand operator</a> and the <a href="https://support.google.com/docs/answer/3094219?hl=en">UPPER</a> function in google sheets.
+- <a href="https://medium.com/analytics-vidhya/harnessing-the-power-of-pivot-tables-in-google-sheets-eea6e0b9bbee">Pivot Tables</a> to summarize your data
+- [Tabula](https://tabula.technology/): [screencast demo](https://propublica.s3.amazonaws.com/data-institute/tabula_demo.mov)
+
+**No Homework!**
+
 ## What you'll need installed
 
 Before class begins on Monday, you'll need to have signed up for the following accounts, and installed the following software on your computer.
@@ -41,55 +93,3 @@ We won't be teaching these tools during class, but we highly recommend them and 
 - **Open Refine** (<a href="https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg">Mac</a>, <a href="https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-3.4.1.zip">Windows</a>)
   <br/> A great tool to help you clean data (ex: it can recognize that "Saint Paul" and "St. Paul" maybe refer to the same city in Minnesota)
 	- If you're on a Mac, and you get the error that Google/Open Refine is damaged, [follow these instructions](open-refine-troubleshooting.md).
-
-## Day 1
-Monday, July 12
-
-### Intro to Data Journalism
-<a href="https://propublica.s3.amazonaws.com/data-institute/intro-to-data.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/intro-to-data.jpg"></a>
-
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-spreadsheets.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/intro-to-spreadsheets.jpg"></a>
-
-<a href="https://propublica.s3.amazonaws.com/data-institute/finding-data.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/finding-data.jpg"></a>
-
-<a href="https://propublica.s3.amazonaws.com/data-institute/loading-data.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/loading-data.jpg"></a>
-
-<a href="https://propublica.s3.amazonaws.com/data-institute/best-practices.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/best-practices.jpg"></a>
-
-**Exercises**
-- Learning how to sort with [PPP loan applications](https://docs.google.com/spreadsheets/d/1FMktt0503CZqShEfsm2z8m1AiVZmyrIgfzqkTgeFTJU/edit?usp=sharing)
-- String Functions: We combined street, city and state into one address using the <a href="https://productivityspot.com/concatenate-in-google-sheets/">Ampersand operator</a> and the <a href="https://support.google.com/docs/answer/3094219?hl=en">UPPER</a> function in google sheets.
-- <a href="https://medium.com/analytics-vidhya/harnessing-the-power-of-pivot-tables-in-google-sheets-eea6e0b9bbee">Pivot Tables</a> to summarize your data
-- [Tabula](https://tabula.technology/): [screencast demo](https://propublica.s3.amazonaws.com/data-institute/tabula_demo.mov)
-
-**No Homework!**
-
-## Day 2
-Tuesday, July 13
-
-### Analyzing Data
-
-<a href="https://propublica.s3.amazonaws.com/data-institute/evaluating-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/evaluating-data.jpg"></a>
-
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/data-integrity.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/data-integrity.jpg"></a>
-
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/open-refine.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/open-refine.jpg"></a>
-
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/one-var.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/one-var.jpg"></a>
-
-<a href="https://propublica.s3.amazonaws.com/data-institute/histogram_vs_barchart_21.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/HISTOGRAM-vs-BAR-CHART.jpg"></a>
-
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/two-vars.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/two-vars.jpg"></a>
-
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/analysis-grab-bag.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/analysis-grab-bag.jpg"></a>
-
-**Exercises**
-- Evaluating data with [PPP loan applications](https://docs.google.com/spreadsheets/d/1FMktt0503CZqShEfsm2z8m1AiVZmyrIgfzqkTgeFTJU/edit?usp=sharing)
-- Analyzing one variable with [school reportcards](https://docs.google.com/spreadsheets/d/1t6xnKivbM1l67vCWj4Aw_ickHmYG9yJmSliByMUlCoY/edit?usp=sharing)
-
-**Resources**
-- [Numbers in the Newsroom: Using Math and Statistics in News](https://store.ire.org/products/numbers-in-the-newsroom-using-math-and-statistics-in-news-second-edition-e-version) by Sarah Cohen (You should have received a copy!)
-- [Precision Journalism: A Reporter's Introduction to Social Science Methods](https://www.amazon.com/Precision-Journalism-Reporters-Introduction-Science/dp/0742510883) by Philip Meyer
-- [Google Sheets Tutorials](https://training.npr.org/visual/what-to-do-with-a-big-pile-of-data/)
-
-**No Homework!**
