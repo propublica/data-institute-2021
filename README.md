@@ -88,7 +88,7 @@ Tuesday, July 13
 - Analyzing one variable with [school reportcards](https://docs.google.com/spreadsheets/d/1t6xnKivbM1l67vCWj4Aw_ickHmYG9yJmSliByMUlCoY/edit?usp=sharing)
 
 **Resources**
-- [Numbers in the Newsroom: Using Math and Statistics in News](https://store.ire.org/products/numbers-in-the-newsroom-using-math-and-statistics-in-news-second-edition-e-version) by Sarah Cohen
+- [Numbers in the Newsroom: Using Math and Statistics in News](https://store.ire.org/products/numbers-in-the-newsroom-using-math-and-statistics-in-news-second-edition-e-version) by Sarah Cohen (You should have received a copy!)
 - [Precision Journalism: A Reporter's Introduction to Social Science Methods](https://www.amazon.com/Precision-Journalism-Reporters-Introduction-Science/dp/0742510883) by Philip Meyer
 - [Google Sheets Tutorials](https://training.npr.org/visual/what-to-do-with-a-big-pile-of-data/)
 
