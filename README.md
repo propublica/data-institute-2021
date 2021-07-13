@@ -58,7 +58,7 @@ Monday, July 12
 
 **Exercises**
 - Learning how to sort with [PPP loan applications](https://docs.google.com/spreadsheets/d/1FMktt0503CZqShEfsm2z8m1AiVZmyrIgfzqkTgeFTJU/edit?usp=sharing)
-- String Functions: We combined street, city and state into one address using the <a href="https://productivityspot.com/concatenate-in-google-sheets/">Ampersand operator</a> and the <a href="https://support.google.com/docs/answer/3094219?hl=en">UPPER</a> function in google sheets. 
+- String Functions: We combined street, city and state into one address using the <a href="https://productivityspot.com/concatenate-in-google-sheets/">Ampersand operator</a> and the <a href="https://support.google.com/docs/answer/3094219?hl=en">UPPER</a> function in google sheets.
 - <a href="https://medium.com/analytics-vidhya/harnessing-the-power-of-pivot-tables-in-google-sheets-eea6e0b9bbee">Pivot Tables</a> to summarize your data
 - [Tabula](https://tabula.technology/): [screencast demo](https://propublica.s3.amazonaws.com/data-institute/tabula_demo.mov)
 
@@ -69,7 +69,7 @@ Tuesday, July 13
 
 ### Analyzing Data
 
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/evaluating-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/evaluating-data.jpg"></a>
+<a href="https://propublica.s3.amazonaws.com/data-institute/evaluating-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/evaluating-data.jpg"></a>
 
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/data-integrity.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/data-integrity.jpg"></a>
 
