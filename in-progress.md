@@ -2,74 +2,7 @@ We'll literally paste each day below into the `read.md` as we go!
 
 <hr>
 
-
-
-## Day 3
-### Wednesday, July 14
-
-### Intro to Design
-<p>
-<a href="https://lenagroeger.com/design_workshop" target="_blank">
-  <img src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/design_intro.jpg">
-</a>
-</p>
-
-**Lecture**
-<ul>
-  <li><a href="https://lenagroeger.com/design_workshop" target="_blank">Design for Journalists</a></li>
-</ul>
-
-**Exercises**
-<ul>
-  <li> <a target="_blank" href="https://lenagroeger.com/design_workshop/imgs/ladle.jpg">Align This!</a></li>
-
-  <li><a target="_blank" href="https://lenagroeger.com/design_workshop/imgs/resumebefore.jpg">Resume Redesign</a></li>
-</ul>
-
-
-
-
-### Let's make a webpage!
-
-<p>
-<a target="_blank" href="http://lenagroeger.com/makeawebsite/"><img width="500" src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/online_portfolio.jpg"></a>
-</p>
-
-**Exercises**       
-<ul>
-  <li><a target="_blank" href="http://lenagroeger.com/makeawebsite/">Making a website</a></li>
-
-</ul>
-
-### Visualizing Data
-<p>
-  <a target="_blank" href="https://lenagroeger.com/visualizing-data/"><img width="500" src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/visualizing_data.jpg"></a>
-</p>
-
-**Lecture**
-<ul>
-  <li><a target="_blank" href="https://lenagroeger.com/visualizing-data/">An intro to charts and data visualization</a></li>
-</ul>
-
-
-### Making Charts
-
-<p>
-  <a href="https://lenagroeger.com/datawrapper/"><img width="500" src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/datawrapper.jpg">
-  </a>
-</p>
-
-**In-Class Demos**  
-<ul>
-  <li><a href="https://lenagroeger.com/datawrapper/">From data to charts in Data Wrapper</a></li>
-</ul>
-
-
-
-
-
-
-## Day 4
+# Day 4
 ### Thursday, July 25
 
 ### Intro to Code
