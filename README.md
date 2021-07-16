@@ -9,7 +9,7 @@ Want to use our slides? Our teaching materials fall under the [same Creative Com
 
 
 ## Day 5
-### Monday, July 29
+### Friday, July 16
 
 ### Basic CSS
 
@@ -69,7 +69,7 @@ Only for those of you who have time and are looking for an extra challenge. This
 
 
 # Day 4
-### Thursday, July 25
+### Thursday, July 15
 
 ### Intro to Code
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/intro-to-code.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-code.jpg"></a>
