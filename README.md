@@ -7,46 +7,11 @@ Want to use our slides? Our teaching materials fall under the [same Creative Com
 
 # Curriculum
 
-# Day 4
-### Thursday, July 25
 
-### Intro to Code
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/intro-to-code.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-code.jpg"></a>
-
-**In-Class Demos**
-- What coding languages have you heard of?
-- Using the web inspector
-
-### How Websites Work
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/how-websites-work.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/how-websites-work.jpg"></a>
-
-**In-Class Demos**
-- How the Internet passes websites around
-- What HTML, CSS and Javascript contribute to a webpage
-
-### HTML
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/html.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/html.jpg"></a>
-
-**In-Class Demos**
-- How to create your first HTML file
-- Shortcut to the basic HTML template
-- How to use:
-  - `<h1>`
-  - `<h2>`
-  - `<h3>`
-  - `<p>`
-  - `<img>`
-  - `<a>`
-  - `<ul>`
-
-**Exercises**
-<ul>
-  <li>Copy and paste <a href="https://codepen.io/sisiwei/pen/KzLezJ?editors=1000">this code</a> and follow the instructions inside to format the page.</li>
-  <li>Can you fix this <a href="https://codepen.io/sisiwei/pen/PNvaeB?editors=1000">broken code</a>? </li>
-</ul>
+## Day 5
+### Monday, July 29
 
 ### Basic CSS
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/css.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/css.jpg"></a>
 
 **In-Class Demos**
 <ul>
@@ -99,7 +64,49 @@ Only for those of you who have time and are looking for an extra challenge. This
   <li>Save <a href="https://codepen.io/sisiwei/pen/bpXwMB?editors=1000">this HTML</a> onto your computer. Link to a new CSS file that you create. Write CSS to make the end result look like <a href="http://projects.propublica.org/graphics/images/data-institute/presentations/mars.jpg">this image</a>. You may only write CSS. You cannot edit the HTML file. When you're done, send me your files or send me the links of your files on Github and I'll give you feedback on how it went!</li>
 </ul>
 
+**Review**  
+- Making a Website with Cards ♠️
 
+
+# Day 4
+### Thursday, July 25
+
+### Intro to Code
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/intro-to-code.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-code.jpg"></a>
+
+**In-Class Demos**
+- What coding languages have you heard of?
+- Using the web inspector
+
+### How Websites Work
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/how-websites-work.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/how-websites-work.jpg"></a>
+
+**In-Class Demos**
+- How the Internet passes websites around
+- What HTML, CSS and Javascript contribute to a webpage
+
+### HTML
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/html.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/html.jpg"></a>
+
+**In-Class Demos**
+- How to create your first HTML file
+- Shortcut to the basic HTML template
+- How to use:
+  - `<h1>`
+  - `<h2>`
+  - `<h3>`
+  - `<p>`
+  - `<img>`
+  - `<a>`
+  - `<ul>`
+
+**Exercises**
+<ul>
+  <li>Can you fix this <a href="https://codepen.io/sisiwei/pen/PNvaeB?editors=1000">broken code</a>? </li>
+</ul>
+
+### Optional Homework
+Copy and paste <a href="https://codepen.io/sisiwei/pen/KzLezJ?editors=1000">this code</a> and follow the instructions inside to format the page.
 
 ## Day 3
 Wednesday, July 14
